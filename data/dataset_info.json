@@ -1,4 +1,12 @@
 {
+  "paraphrase_data": {
+    "file_name": "paraphrase_data_111k.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
